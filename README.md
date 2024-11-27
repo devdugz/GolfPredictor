@@ -1,17 +1,25 @@
 # Golf Predictor
 
-A tool designed to predict golf performance and outcomes.
+Golf Hole-in-One Predictor
 
 ## Description
 
-This application helps analyze and predict golf-related statistics and performance metrics.
+The Golf Hole-in-One Predictor is a program designed to calculate the likelihood of achieving a hole-in-one based on various golfing and environmental factors. It combines input data such as swing speed, attack angle, wind conditions, distance to the hole, and course conditions to compute a probability using statistical modeling and mathematical formulas.
 
 ## Features
 
-- Golf score prediction
-- Performance analysis
-- Statistical tracking
-- Data visualization
+- Golf Hole-in-One prediction
+- Swing Speed: Measures the speed of the clubhead at the moment of impact.
+- Distance to the Hole: Considers how far the ball needs to travel to reach the hole.
+
+- Probability Calculation:
+
+Uses normalized values and statistical weightage to compute a percentage likelihood of a hole-in-one.
+Adjusts predictions dynamically based on optimal ranges for each input.
+
+- Real-Time Feedback:
+
+Outputs the calculated probability in a user-friendly format, offering insights into how close conditions are to a perfect shot.
 
 ## Installation
 
@@ -65,10 +73,4 @@ g++ -std=c++14 -DTESTING test_main.cpp predictor.cpp -o test.out -lgtest -lgtest
 
 ## License
 
-[Add license information here]
-
-## Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/yourusername/GolfPredictor](https://github.com/yourusername/GolfPredictor)
+MIT License
