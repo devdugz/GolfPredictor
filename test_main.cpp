@@ -1,4 +1,3 @@
-
 #include "predictor.h"
 #include <gtest/gtest.h>
 #include <string>
