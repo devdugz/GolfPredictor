@@ -1,6 +1,6 @@
 # Golf Predictor
 
-Golf Hole-in-One Predictor
+Welcome to the Golf Hole-in-One Predictor
 
 ## Description
 
