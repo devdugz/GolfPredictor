@@ -1,9 +1,8 @@
-// test_main.cpp
+
 #include "predictor.h"
 #include <gtest/gtest.h>
 #include <string>
 
-// Declaration of the function we'll test
 std::string getGreeting();
 
 TEST(PredictorTest, BasicProbability)
