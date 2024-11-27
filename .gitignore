@@ -1,0 +1,49 @@
+# C++ build files
+*.out
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build directories
+build/
+dist/
+Debug/
+Release/
+
+# IDE specific
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Dependencies
+node_modules/
+vendor/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Test output
+test.out
+*.gcno
+*.gcda
+*.gcov
+
+# Project specific
+main.out
+test.out
