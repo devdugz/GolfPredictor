@@ -40,12 +40,14 @@ Enter requested values:
 
 Project Structure
 
+```
 GolfPredictor/
 ├── predictor.h # Core logic header
 ├── predictor.cpp # Implementation
 ├── main.cpp # CLI interface
 ├── test_main.cpp # Unit tests
 └── index.html # Web interface
+```
 
 ## Running Tests
 
