@@ -1,4 +1,3 @@
-// golf_types.h
 #ifndef GOLF_TYPES_H
 #define GOLF_TYPES_H
 
