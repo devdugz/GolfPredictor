@@ -1,4 +1,3 @@
-// test_predictor.cpp
 #define TESTING
 #include <gtest/gtest.h>
 #include "predictor.h"
