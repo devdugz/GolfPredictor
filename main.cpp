@@ -1,4 +1,3 @@
-// main.cpp
 #include "predictor.h"
 #include <iostream>
 #include <iomanip>
