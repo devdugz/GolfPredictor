@@ -1,4 +1,3 @@
-// predictor.cpp
 #include "predictor.h"
 #include <cmath>
 #include <algorithm> // Add this for std::min/max
