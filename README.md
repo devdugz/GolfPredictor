@@ -16,7 +16,7 @@ This application helps analyze and predict golf-related statistics and performan
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/GolfPredictor.git
+git clone https://github.com/devdugz/GolfPredictor.git
 cd GolfPredictor
 ```
 
