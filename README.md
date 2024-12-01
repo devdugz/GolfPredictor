@@ -6,7 +6,7 @@ Welcome to the Golf Hole-in-One Predictor
 
 The Golf Hole-in-One Predictor is a program designed to calculate the likelihood of achieving a hole-in-one based on various golfing and environmental factors. It combines input data such as swing speed, attack angle, wind conditions, distance to the hole, and course conditions to compute a probability using statistical modeling and mathematical formulas.
 
-![Golf Predictor Interface](assets/GolfPredictor_Pic.png)
+![Golf Predictor Interface](assets/MMM-GolfPredictor_Pic.png)
 
 ## Features
 
