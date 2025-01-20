@@ -1,0 +1,21 @@
+{
+  "name": "golf-predictor",
+  "version": "1.0.0",
+  "description": "Golf Hole-in-One Probability Calculator",
+  "main": "index.html",
+  "scripts": {
+    "test": "g++ -std=c++14 -DTESTING test_main.cpp predictor.cpp -o test.out -lgtest -lgtest_main -pthread && ./test.out",
+    "build": "g++ -std=c++14 main.cpp predictor.cpp -o main.out",
+    "start": "npx serve"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdugz/GolfPredictor.git"
+  },
+  "keywords": ["golf", "statistics", "probability", "calculator"],
+  "author": "Connor Duggan",
+  "license": "MIT"
+}
